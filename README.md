@@ -2,5 +2,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Domain Save. vercle deployment practice
 
-## OdenAI.com
+## [おでんAI](https://OdenAI.com)
 # 🍢
